@@ -1,0 +1,15 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "ProProsthesisWidget";
+
+/* Bundle name */
+"CFBundleName" = "ProProsthesisWidgetExtension";
+
+/* Privacy - Health Records Usage Description */
+"NSHealthClinicalHealthRecordsShareUsageDescription" = "Pro Prosthesis wants to save your active readings";
+
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "Pro Prosthesis wants to access your active readings";
+
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "Pro Prosthesis wants to change your active readings";
+

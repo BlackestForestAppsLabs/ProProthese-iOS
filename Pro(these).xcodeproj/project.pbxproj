@@ -477,6 +477,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6199E0482C04D82900E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Intents.strings; sourceTree = "<group>"; };
+		6199E0492C04D82A00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/MainInterface.strings; sourceTree = "<group>"; };
+		6199E04A2C04D82B00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = "ru.lproj/Pro-these--InfoPlist.strings"; sourceTree = "<group>"; };
+		6199E04B2C04D82C00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		6199E04C2C04D82D00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6199E04D2C04D82D00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6199E04E2C04D82E00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6199E04F2C04D82E00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = "ru.lproj/ProWatchOS-Watch-App-InfoPlist.strings"; sourceTree = "<group>"; };
+		6199E0502C04D82F00E63528 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B60497132A716F5900985310 /* FeelingDiagram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeelingDiagram.swift; sourceTree = "<group>"; };
 		B60497152A718C2E00985310 /* StepsAvarage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepsAvarage.swift; sourceTree = "<group>"; };
 		B60497172A719A5D00985310 /* WearingAvarage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WearingAvarage.swift; sourceTree = "<group>"; };
@@ -1769,6 +1778,7 @@
 				es,
 				"pt-BR",
 				"pt-PT",
+				ru,
 			);
 			mainGroup = B6F948E429F6ED8500BBE3A2;
 			packageReferences = (
@@ -2318,6 +2328,7 @@
 				B671AAEB2AE1E42300F3796C /* es */,
 				B671AAED2AE1E45000F3796C /* pt-BR */,
 				B671AAEF2AE1E45600F3796C /* pt-PT */,
+				6199E0482C04D82900E63528 /* ru */,
 			);
 			name = Intents.intentdefinition;
 			path = "Pro(these)";
@@ -2331,6 +2342,7 @@
 				B6A6391B2A9F63B10094EB73 /* es */,
 				B686440E2AC343C200831DA7 /* pt-PT */,
 				B68644152AC3490300831DA7 /* pt-BR */,
+				6199E0502C04D82F00E63528 /* ru */,
 			);
 			name = Localizable.strings;
 			path = ..;
@@ -2344,6 +2356,7 @@
 				B68968FB2AC316530093DDBF /* en */,
 				B68644082AC343B100831DA7 /* pt-PT */,
 				B686440F2AC348FD00831DA7 /* pt-BR */,
+				6199E04A2C04D82B00E63528 /* ru */,
 			);
 			name = "Pro-these--InfoPlist.strings";
 			path = ..;
@@ -2357,6 +2370,7 @@
 				B68968FC2AC316530093DDBF /* en */,
 				B686440D2AC343C000831DA7 /* pt-PT */,
 				B68644142AC3490200831DA7 /* pt-BR */,
+				6199E04F2C04D82E00E63528 /* ru */,
 			);
 			name = "ProWatchOS-Watch-App-InfoPlist.strings";
 			path = ..;
@@ -2370,6 +2384,7 @@
 				B68968FD2AC316530093DDBF /* en */,
 				B686440A2AC343B500831DA7 /* pt-PT */,
 				B68644112AC348FF00831DA7 /* pt-BR */,
+				6199E04C2C04D82D00E63528 /* ru */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -2382,6 +2397,7 @@
 				B68968FE2AC316530093DDBF /* en */,
 				B68644092AC343B300831DA7 /* pt-PT */,
 				B68644102AC348FE00831DA7 /* pt-BR */,
+				6199E04B2C04D82C00E63528 /* ru */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -2394,6 +2410,7 @@
 				B68969012AC3168F0093DDBF /* es */,
 				B686440C2AC343BF00831DA7 /* pt-PT */,
 				B68644132AC3490100831DA7 /* pt-BR */,
+				6199E04E2C04D82E00E63528 /* ru */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -2417,6 +2434,7 @@
 				B686440B2AC343BE00831DA7 /* pt-PT */,
 				B68644122AC3490000831DA7 /* pt-BR */,
 				B62E77CF2AC5B01A0041F753 /* es */,
+				6199E04D2C04D82D00E63528 /* ru */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -2436,6 +2454,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B6FECDCE2AD6717D00380658 /* Base */,
+				6199E0492C04D82A00E63528 /* ru */,
 			);
 			name = MainInterface.storyboard;
 			sourceTree = "<group>";

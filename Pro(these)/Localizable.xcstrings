@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "blue" : {
+
+    },
     "Everyday Prosthesis" : {
       "localizations" : {
         "de" : {
@@ -177,6 +180,9 @@
         }
       }
     },
+    "orange" : {
+
+    },
     "Order your liner for the Everyday Prosthesis in good time!" : {
       "localizations" : {
         "de" : {
@@ -264,6 +270,9 @@
           }
         }
       }
+    },
+    "pink" : {
+
     },
     "Replacement Prosthesis" : {
       "localizations" : {

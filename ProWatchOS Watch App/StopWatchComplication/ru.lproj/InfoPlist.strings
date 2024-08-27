@@ -1,0 +1,12 @@
+/* Privacy - Health Records Usage Description */
+"NSHealthClinicalHealthRecordsShareUsageDescription" = "Pro Prosthesis wants to save your active metrics";
+
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "Pro Prosthesis wants to access your active metrics";
+
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "Pro Prosthesis wants to change your active metrics";
+
+/* Privacy - Location Usage Description */
+"NSLocationUsageDescription" = "Pro Prosthesis needs access to their location to track their workouts";
+

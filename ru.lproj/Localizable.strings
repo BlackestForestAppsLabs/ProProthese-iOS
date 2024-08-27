@@ -1,0 +1,2250 @@
+/* No comment provided by engineer. */
+"-" = "-";
+
+/* No comment provided by engineer. */
+"- -" = "- -";
+
+/* No comment provided by engineer. */
+"---" = "---";
+
+/* No comment provided by engineer. */
+"–" = "–";
+
+/* No comment provided by engineer. */
+"(%@)" = "(%@)";
+
+/* No comment provided by engineer. */
+"(%lld)" = "(%lld)";
+
+/* No comment provided by engineer. */
+"*" = "*";
+
+/* No comment provided by engineer. */
+"* 14-day free trial" = "* 14-бесплатных пробных дней";
+
+/* No comment provided by engineer. */
+"**%@:%@h**" = "**%@:%@h**";
+
+/* No comment provided by engineer. */
+"**%@km**" = "**%@ км**";
+
+/* No comment provided by engineer. */
+"**%lld floors**" = "**%lld ступень**";
+
+/* No comment provided by engineer. */
+"**%lld**" = "**%lld**";
+
+/* No comment provided by engineer. */
+"%.0f Steps" = "%.0f шагов";
+
+/* No comment provided by engineer. */
+"%.1f Darkness" = "%.1f затемнить";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* No comment provided by engineer. */
+"%@ - %@" = "%@ - %@";
+
+/* No comment provided by engineer. */
+"%@ %@" = "%@ %@";
+
+/* No comment provided by engineer. */
+"%@ %@ **(%@)**" = "%@ %@ **(%@)**";
+
+/* No comment provided by engineer. */
+"%@ %lld%%" = "%@ %lld%%";
+
+/* No comment provided by engineer. */
+"%@ edit" = "%@ редактировать";
+
+/* No comment provided by engineer. */
+"%@ hPa" = "%@ гПа";
+
+/* No comment provided by engineer. */
+"%@ hrs. %@ mins." = "%@ ч. %@ мин.";
+
+/* No comment provided by engineer. */
+"%@ hrs. %@ mins. %@ sec." = "%@ ч. %@ мин. %@ сек.";
+
+/* No comment provided by engineer. */
+"%@ k" = "%@ к";
+
+/* No comment provided by engineer. */
+"%@ km" = "%@ км";
+
+/* No comment provided by engineer. */
+"%@ m" = "%@ м";
+
+/* No comment provided by engineer. */
+"%@ Steps" = "%@ шагов";
+
+/* No comment provided by engineer. */
+"%@ steps today" = "%@ шагов сегодня";
+
+/* No comment provided by engineer. */
+"%@ steps yesterday" = "%@ шагов вчера";
+
+/* No comment provided by engineer. */
+"%@:%@h" = "%@:%@ч";
+
+/* No comment provided by engineer. */
+"%@%@%%" = "%@%@%%";
+
+/* No comment provided by engineer. */
+"%@%%" = "%@%%";
+
+/* No comment provided by engineer. */
+"%@%% less than the day before!" = "%@%% меньше, чем накануне!";
+
+/* No comment provided by engineer. */
+"%@%% more than the day before!" = "%@%% больше, чем накануне!";
+
+/* No comment provided by engineer. */
+"%@h" = "%@ч";
+
+/* No comment provided by engineer. */
+"%lld" = "%lld";
+
+/* No comment provided by engineer. */
+"%lld °C" = "%lld °C";
+
+/* No comment provided by engineer. */
+"%lld °F" = "%lld °F";
+
+/* No comment provided by engineer. */
+"%lld daily step goal" = "%lld цель по шагам на день";
+
+/* No comment provided by engineer. */
+"%lld Day" = "%lld день";
+
+/* No comment provided by engineer. */
+"%lld day ago" = "%lld день назад";
+
+/* No comment provided by engineer. */
+"%lld Days" = "%lld дней";
+
+/* No comment provided by engineer. */
+"%lld days ago" = "%lld дней назад";
+
+/* No comment provided by engineer. */
+"%lld Months" = "%lld месяца";
+
+/* No comment provided by engineer. */
+"%lld months interval" = "%lld интервал месяцев";
+
+/* No comment provided by engineer. */
+"%lld Mths." = "%lld месяцев";
+
+/* No comment provided by engineer. */
+"%lld pain index" = "%lld индекс боли";
+
+/* No comment provided by engineer. */
+"%lld Step" = "%lld шаги";
+
+/* No comment provided by engineer. */
+"%lld step goal" = "%lld цель шагов";
+
+/* No comment provided by engineer. */
+"%lld Steps" = "%lld шаги";
+
+/* No comment provided by engineer. */
+"%lld Yrs, %lld Mths, %lld Days" = "%lld год, %lld месяц, %lld день";
+
+/* No comment provided by engineer. */
+"%lld%%" = "%lld%%";
+
+/* No comment provided by engineer. */
+"%lldx" = "%lldx";
+
+/* No comment provided by engineer. */
+"°C" = "°C";
+
+/* No comment provided by engineer. */
+"°F" = "°F";
+
+/* No comment provided by engineer. */
+"© Frederik Kohler %@" = "© Фредерик Колер %@";
+
+/* No comment provided by engineer. */
+"+" = "+";
+
+/* No comment provided by engineer. */
+"⌀ %@:%@h" = "⌀ %@:%@ч";
+
+/* No comment provided by engineer. */
+"⌀ %lld steps" = "⌀ %lld шагов";
+
+/* No comment provided by engineer. */
+"⌀ %lld steps a day this week" = "⌀ %lld шагов в день на этой неделе";
+
+/* No comment provided by engineer. */
+"⌀ Pain value" = "⌀ значение боли";
+
+/* No comment provided by engineer. */
+"⌀ Steps" = "⌀ шагов";
+
+/* No comment provided by engineer. */
+"⌀ Wearingtime" = "⌀ время ношения";
+
+/* No comment provided by engineer. */
+"🎁 save %lld%%" = "🎁 сэкономьте %lld%%";
+
+/* No comment provided by engineer. */
+"0" = "0";
+
+/* No comment provided by engineer. */
+"0 Days" = "0 дней";
+
+/* No comment provided by engineer. */
+"00 hrs. 01 mins." = "00 ч.  01 мин. ";
+
+/* No comment provided by engineer. */
+"1 day before" = "1 день назад";
+
+/* No comment provided by engineer. */
+"1 hours before" = "1 час назад";
+
+/* No comment provided by engineer. */
+"1,99€ - Monthly" = "1,99€ - Ежемесячно";
+
+/* No comment provided by engineer. */
+"2 days before" = "за 2 дня до этого";
+
+/* No comment provided by engineer. */
+"2 hours before" = "2 часа назад";
+
+/* No comment provided by engineer. */
+"3 days before" = "за 3 дня до этого";
+
+/* No comment provided by engineer. */
+"10 minutes before" = "за 10 минут до";
+
+/* No comment provided by engineer. */
+"19,99€ - Yearly" = "19,99€ - в год";
+
+/* No comment provided by engineer. */
+"30 minutes before" = "за 30 минут до";
+
+/* No comment provided by engineer. */
+"040 / 1234" = "040 / 1234";
+
+/* No comment provided by engineer. */
+"100% ad-free" = "100% без рекламы";
+
+/* No comment provided by engineer. */
+"0174 / 123 456" = "+49174 / 123 456";
+
+/* No comment provided by engineer. */
+"A little Motivation for a great day 🦾 🦾" = "Маленькая мотивация для хорошего дня 🦾 🦾";
+
+/* No comment provided by engineer. */
+"A reminder about the appointment will be sent 24 hours before the appointment." = "Напоминание о записи будет отправлено за 24 часа до встречи.";
+
+/* No comment provided by engineer. */
+"A single premium membership is available on each platform (iOS, watchOS).\n\nFamily sharing allows you and up to five other family members to use Pro Prosthesis." = "Одно премиум-членство доступно на каждой платформе (iOS, watchOS). \n\nСемейный доступ позволяет вам и пяти другим членам семьи использовать Pro Prosthesis.\n\n";
+
+/* No comment provided by engineer. */
+"Above knee Prothesis" = "Протез выше колена";
+
+/* No comment provided by engineer. */
+"Access Permissions" = "Разрешения на доступ";
+
+/* No comment provided by engineer. */
+"Achieved step goals" = "Достигнутые цели по шагам";
+
+/* No comment provided by engineer. */
+"Action:" = "Действие:";
+
+/* No comment provided by engineer. */
+"Activity Rings" = "Кольца активности";
+
+/* No comment provided by engineer. */
+"Add" = "Добавлять";
+
+/* No comment provided by engineer. */
+"Add \n Contact" = "Добавлять \n Контакт";
+
+/* No comment provided by engineer. */
+"Add another Prosthesis liner" = "Добавить еще один вкладыш для протеза";
+
+/* No comment provided by engineer. */
+"Add another Prosthetics" = "Добавить еще одно протезирование";
+
+/* No comment provided by engineer. */
+"Add Contact person!" = "Добавьте контактное лицо!";
+
+/* No comment provided by engineer. */
+"Add even more contacts" = "Добавьте еще больше контактов";
+
+/* No comment provided by engineer. */
+"Add event" = "Добавить событие";
+
+/* No comment provided by engineer. */
+"Add Note" = "Добавить заметку";
+
+/* No comment provided by engineer. */
+"Add Prosthetics" = "Добавить протезирование";
+
+/* No comment provided by engineer. */
+"Add Prosthetics liners" = "Добавить вкладыши для протезирования";
+
+/* No comment provided by engineer. */
+"Add repeating events" = "Добавьте повторяющиеся события";
+
+/* No comment provided by engineer. */
+"Add your first Prosthesis liner" = "Добавьте свой первый вкладыш для протеза";
+
+/* No comment provided by engineer. */
+"Add your first Prosthetics" = "Добавьте свое первое протезирование";
+
+/* No comment provided by engineer. */
+"addFeeling" = "добавитьЧувство";
+
+/* No comment provided by engineer. */
+"Administer" = "Администрировать";
+
+/* No comment provided by engineer. */
+"Advanced statistics" = "Расширенная статистика";
+
+/* No comment provided by engineer. */
+"Advanced Widget function" = "Расширенная функция виджет";
+
+/* No comment provided by engineer. */
+"Air pressure" = "Давление воздуха";
+
+/* No comment provided by engineer. */
+"All" = "Все";
+
+/* No comment provided by engineer. */
+"All appointments" = "Все встречи";
+
+/* No comment provided by engineer. */
+"All expired dates in the event list view." = "Все истекшие даты в списке событий.";
+
+/* No comment provided by engineer. */
+"All reports" = "Все отчеты";
+
+/* No comment provided by engineer. */
+"All Weekly Reports" = "Все еженедельные отчеты";
+
+/* No comment provided by engineer. */
+"Allow comeback reminder" = "Разрешить напоминание о возвращении";
+
+/* No comment provided by engineer. */
+"Allow the app to wish you a good start to the day" = "Разрешите приложению пожелать вам хорошего начала дня";
+
+/* No comment provided by engineer. */
+"Amputated since %@" = "Ампутирован с тех пор %@";
+
+/* No comment provided by engineer. */
+"Amputation day" = "День ампутации";
+
+/* No comment provided by engineer. */
+"Amputation day." = "День ампутации.";
+
+/* No comment provided by engineer. */
+"Amputee" = "Инвалид";
+
+/* No comment provided by engineer. */
+"Amputee day counter" = "Счетчик дней для инвалидов";
+
+/* No comment provided by engineer. */
+"andrer Grund" = "andrer Grund";
+
+/* No comment provided by engineer. */
+"Annually" = "Ежегодно";
+
+/* No comment provided by engineer. */
+"App badge" = "Значок приложения";
+
+/* No comment provided by engineer. */
+"App changelog" = "Журнал изменений приложения";
+
+/* No comment provided by engineer. */
+"App Settings" = "Настройки приложения";
+
+/* No comment provided by engineer. */
+"AppDelegate Trigger" = "Триггер делегата приложения";
+
+/* No comment provided by engineer. */
+"Auto Renewal. Cancellable at any time." = "Автоматического продления. Возможность отмены в любое время.";
+
+/* No comment provided by engineer. */
+"Average" = "Средний";
+
+/* No comment provided by engineer. */
+"Average Daily Steps" = "Среднее количество шагов за день";
+
+/* No comment provided by engineer. */
+"Average wearing time this week" = "Среднее время ношения на этой неделе";
+
+/* No comment provided by engineer. */
+"Background" = "Фон";
+
+/* No comment provided by engineer. */
+"Background Overlay" = "Наложение фона";
+
+/* No comment provided by engineer. */
+"Beginning" = "Начало";
+
+/* No comment provided by engineer. */
+"Below knee Prothesis" = "Протез ниже колена";
+
+/* No comment provided by engineer. */
+"blue" = "Синий";
+
+/* No comment provided by engineer. */
+"Bold" = "Bold";
+
+/* No comment provided by engineer. */
+"Bottom-Left" = "Внизу слева";
+
+/* No comment provided by engineer. */
+"Bottom-Right" = "Внизу справа";
+
+/* No comment provided by engineer. */
+"Calender" = "календарь";
+
+/* No comment provided by engineer. */
+"Call" = "Вызов";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отмена";
+
+/* No comment provided by engineer. */
+"Cause of pain" = "Причина боли";
+
+/* No comment provided by engineer. */
+"Celsius" = "Цельсия";
+
+/* No comment provided by engineer. */
+"Change" = "Изменить";
+
+/* No comment provided by engineer. */
+"Change background" = "Изменить фон";
+
+/* No comment provided by engineer. */
+"Change Maintenance Interval" = "Изменить интервал технического обслуживания";
+
+/* No comment provided by engineer. */
+"Chart" = "Диаграмма";
+
+/* No comment provided by engineer. */
+"Choose" = "Выбрать";
+
+/* No comment provided by engineer. */
+"Choose a prosthesis." = "Выбрать протез.";
+
+/* No comment provided by engineer. */
+"Choose an image" = "Выберите изображение";
+
+/* No comment provided by engineer. */
+"Choose option" = "Выберите вариант";
+
+/* No comment provided by engineer. */
+"cold" = "холодный";
+
+/* No comment provided by engineer. */
+"Color scheme" = "Цветовая схема";
+
+/* No comment provided by engineer. */
+"Come back soon, it will be exciting ✌️" = "Возвращайтесь скорее, будет интересно ✌️";
+
+/* No comment provided by engineer. */
+"Compare the steps you have taken with your daily goal." = "Сравните шаги, которые вы предприняли, со своей ежедневной целью.";
+
+/* No comment provided by engineer. */
+"Compare your progress against your set goal." = "Сравните свой прогресс с поставленной целью.";
+
+/* No comment provided by engineer. */
+"Compared to the previous week." = "По сравнению с предыдущей неделей.";
+
+/* No comment provided by engineer. */
+"Comparison with the previous week." = "Сравнение с предыдущей неделей.";
+
+/* No comment provided by engineer. */
+"Comparison with the week before." = "Сравнение с неделей ранее.";
+
+/* No comment provided by engineer. */
+"Comparison with yesterday." = "Сравнение со вчерашним днем.";
+
+/* No comment provided by engineer. */
+"Congratulations on reaching your goal for the day 🥳" = "Поздравляем с достижением цели на день 🥳";
+
+/* No comment provided by engineer. */
+"Congratulations, %@! 🥳" = "Поздравляем,\n %@! 🥳";
+
+/* No comment provided by engineer. */
+"Congratulations, you have reached your daily goal! You walked more than %lld steps today. 🥳 🥳" = "Поздравляем, вы достигли своей ежедневной цели! Вы прошли более %lld шагов сегодня.  🥳 🥳\n\n\n";
+
+/* No comment provided by engineer. */
+"Contact" = "Контакт";
+
+/* No comment provided by engineer. */
+"Contact Person" = "Контактное лицо";
+
+/* No comment provided by engineer. */
+"Content" = "Содержание";
+
+/* No comment provided by engineer. */
+"Create new appointment" = "Создать новую встречу";
+
+/* No comment provided by engineer. */
+"Create Pin Code" = "Создать пин-код";
+
+/* No comment provided by engineer. */
+"Cross-device sync" = "Синхронизация между устройствами";
+
+/* No comment provided by engineer. */
+"Daily mood reminder push notification" = "Push-уведомление с ежедневным напоминанием о настроении";
+
+/* No comment provided by engineer. */
+"Daily progress" = "Ежедневный прогресс";
+
+/* No comment provided by engineer. */
+"Daily stair goal" = "Ежедневная цель по лестнице";
+
+/* No comment provided by engineer. */
+"Daily Steps Goal" = "Цель по ежедневным шагам";
+
+/* No comment provided by engineer. */
+"Darken the bottom background" = "Затемнить нижний фон";
+
+/* No comment provided by engineer. */
+"Darken the upper background" = "Затемните верхний фон";
+
+/* No comment provided by engineer. */
+"data protection" = "защита данных";
+
+/* No comment provided by engineer. */
+"Data protection" = "Защита данных";
+
+/* No comment provided by engineer. */
+"Data type:" = "Тип данных:";
+
+/* No comment provided by engineer. */
+"date" = "дата";
+
+/* No comment provided by engineer. */
+"Date" = "Дата";
+
+/* No comment provided by engineer. */
+"Date Interval:" = "Интервал дат:";
+
+/* No comment provided by engineer. */
+"Date:" = "Дата:";
+
+/* No comment provided by engineer. */
+"Dates" = "Даты";
+
+/* No comment provided by engineer. */
+"Day" = "День";
+
+/* No comment provided by engineer. */
+"Day counter since amputation" = "Счетчик дней с момента ампутации";
+
+/* No comment provided by engineer. */
+"Debug" = "Отлаживать";
+
+/* No comment provided by engineer. */
+"Del" = "Удал";
+
+/* No comment provided by engineer. */
+"Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Delete '%@ %@'?" = "Удалить '%@ %@'?";
+
+/* No comment provided by engineer. */
+"delete '%@'?" = "удалить '%@'?";
+
+/* No comment provided by engineer. */
+"Delete %@?" = "Удалить %@?";
+
+/* No comment provided by engineer. */
+"Delete %@? \n \n All associated appointments \n and notes will be deleted!" = "Удалить %@? \n \n Все связанные встречи \n и заметки будут удалены!";
+
+/* No comment provided by engineer. */
+"Delete %d?" = "Удалить %d?";
+
+/* No comment provided by engineer. */
+"Delete All Stored BackgroundTaskItems" = "Удалить все сохраненные фоновые элементы задач";
+
+/* No comment provided by engineer. */
+"Delete Contact" = "Удалить контакт";
+
+/* No comment provided by engineer. */
+"Delete entry" = "Удалить запись";
+
+/* No comment provided by engineer. */
+"Delete entry from %@ " = "Удалить запись из %@";
+
+/* No comment provided by engineer. */
+"Delete Entry?" = "Удалить запись?";
+
+/* No comment provided by engineer. */
+"Delete painkillers?" = "Удалить обезболивающие?";
+
+/* No comment provided by engineer. */
+"Delete reason?" = "Удалить причину?";
+
+/* No comment provided by engineer. */
+"Delete the event '%@'?" = "Удалить событие «%@»?";
+
+/* No comment provided by engineer. */
+"Describe for a prosthesis" = "Опишите протез";
+
+/* No comment provided by engineer. */
+"Describe universally" = "Опишите универсально";
+
+/* No comment provided by engineer. */
+"Description" = "Описание";
+
+/* No comment provided by engineer. */
+"Did you reach your step goal in the last %lld days?" = "Достигли ли вы цели по шагам за последние %lld дней?";
+
+/* No comment provided by engineer. */
+"did you wear?" = "ты носил?";
+
+/* No comment provided by engineer. */
+"Distance" = "Расстояние";
+
+/* No comment provided by engineer. */
+"Do you feel any pain?" = "Вы чувствуете боль?";
+
+/* No comment provided by engineer. */
+"Document the feeling with your prosthesis." = "Задокументируйте это ощущение с помощью протеза.";
+
+/* No comment provided by engineer. */
+"Document your current pain" = "Задокументируйте свою текущую боль";
+
+/* No comment provided by engineer. */
+"Don't go where the path may lead you, go where there is no path and write down your notes. ✌️" = "Не идите туда, куда вас может вести дорога, идите туда, где дороги нет, и записывайте свои заметки. ✌️";
+
+/* No comment provided by engineer. */
+"Don't leave a blank page in your prosthesis diary. ✌️" = "Не оставляйте пустую страницу в дневнике протезирования. ✌️";
+
+/* No comment provided by engineer. */
+"Don't Show" = "Не показывать";
+
+/* No comment provided by engineer. */
+"done" = "сделанный";
+
+/* No comment provided by engineer. */
+"Done" = "Сделанный";
+
+/* No comment provided by engineer. */
+"Done!" = "Сделанный!";
+
+/* No comment provided by engineer. */
+"E-Mail:" = "Электронная почта:";
+
+/* No comment provided by engineer. */
+"e.g. control" = "например контроль";
+
+/* No comment provided by engineer. */
+"E.g.: Ibuprofen, Tillidin, Pregabalin..." = "Например: Ибупрофен, Тиллидин, Прегабалин...";
+
+/* No comment provided by engineer. */
+"e.g.: weather, cold, heat..." = "например: погода, холод, жара...";
+
+/* No comment provided by engineer. */
+"Edit" = "Редактировать";
+
+/* No comment provided by engineer. */
+"Edit '%@'?" = "Редактировать '%@'?";
+
+/* No comment provided by engineer. */
+"Edit contact" = "Изменить контакт";
+
+/* No comment provided by engineer. */
+"Edit Contact" = "Изменить контакт";
+
+/* No comment provided by engineer. */
+"Edit pain entry" = "Изменить запись о боли";
+
+/* No comment provided by engineer. */
+"Empty" = "Пустой";
+
+/* No comment provided by engineer. */
+"Enable FaceID verification when launching the app." = "Включите проверку FaceID при запуске приложения.";
+
+/* No comment provided by engineer. */
+"end" = "конец";
+
+/* No comment provided by engineer. */
+"End" = "конец";
+
+/* No comment provided by engineer. */
+"END" = "конец";
+
+/* No comment provided by engineer. */
+"Enter current pain" = "Введите текущую боль";
+
+/* No comment provided by engineer. */
+"Enter the Brand Name" = "Введите название бренда";
+
+/* No comment provided by engineer. */
+"Enter the code" = "введите код";
+
+/* No comment provided by engineer. */
+"Enter the Product Name" = "Введите название продукта";
+
+/* No comment provided by engineer. */
+"Entries from: " = "Записи из:";
+
+/* No comment provided by engineer. */
+"entries:" = "записи:";
+
+/* No comment provided by engineer. */
+"Error loading AppGroup" = "Ошибка загрузки группы приложений.";
+
+/* No comment provided by engineer. */
+"Estimated steps" = "Предполагаемые шаги";
+
+/* No comment provided by engineer. */
+"Even more functions" = "Еще больше функций";
+
+/* No comment provided by engineer. */
+"Events" = "События";
+
+/* No comment provided by engineer. */
+"Everyday" = "Каждый день";
+
+/* No comment provided by engineer. */
+"Everyday\nProsthesis" = "Каждый день\nПротез";
+
+/* No comment provided by engineer. */
+"Everyday Prosthesis" = "Каждый день\nПротез";
+
+/* No comment provided by engineer. */
+"Everyday Prosthesis Liner" = "Повседневный вкладыш для протеза";
+
+/* No comment provided by engineer. */
+"FaceID" = "FaceID";
+
+/* No comment provided by engineer. */
+"Fahrenheit" = "Фаренгейт";
+
+/* No comment provided by engineer. */
+"family doctor" = "семейный врач";
+
+/* No comment provided by engineer. */
+"Feeling" = "Чувство";
+
+/* No comment provided by engineer. */
+"Find out how many days you've been amputee." = "Узнайте, сколько дней вы были инвалидом.";
+
+/* No comment provided by engineer. */
+"Find out how your last week was. 💪" = "Узнайте, как прошла ваша прошлая неделя. 💪";
+
+/* No comment provided by engineer. */
+"Find your pain connections" = "Найдите свои болевые связи";
+
+/* No comment provided by engineer. */
+"First day with prosthesis." = "Первый день с протезом.";
+
+/* No comment provided by engineer. */
+"First name" = "Имя";
+
+/* No comment provided by engineer. */
+"First name:" = "Имя:";
+
+/* No comment provided by engineer. */
+"Follow on social media" = "Следуйте в социальных сетях";
+
+/* No comment provided by engineer. */
+"Font Weigt" = "Вес шрифта";
+
+/* No comment provided by engineer. */
+"Fontsize: %.0f px" = "Размер шрифта: %.0f пикселей";
+
+/* No comment provided by engineer. */
+"Free" = "Бесплатно";
+
+/* No comment provided by engineer. */
+"further" = "дальше";
+
+/* No comment provided by engineer. */
+"generated: %@ %@" = "сгенерировано: %@ %@";
+
+/* No comment provided by engineer. */
+"Get last liner?:" = "Получить последний вкладыш?:";
+
+/* No comment provided by engineer. */
+"Get notified about your daily progress." = "Получайте уведомления о своем ежедневном прогрессе.";
+
+/* No comment provided by engineer. */
+"Get notified when a new weekly report is available." = "Получайте уведомления, когда будет доступен новый еженедельный отчет.";
+
+/* No comment provided by engineer. */
+"Get notified when a step goal is reached." = "Получайте уведомления о достижении цели по шагам.";
+
+/* No comment provided by engineer. */
+"Get Pro" = "Стань профессионалом";
+
+/* No comment provided by engineer. */
+"Get your premium subscription!" = "Получите премиум-подписку!";
+
+/* No comment provided by engineer. */
+"Getting started" = "Начиная";
+
+/* No comment provided by engineer. */
+"Goal achieved" = "Цель достигнута";
+
+/* No comment provided by engineer. */
+"Good evening%@!" = "Добрый вечер%@!";
+
+/* No comment provided by engineer. */
+"Good morning motivation 🦾 🦾" = "Доброе утро, мотивация 🦾 🦾";
+
+/* No comment provided by engineer. */
+"Good morning out there! 👋" = "Доброе утро! 👋";
+
+/* No comment provided by engineer. */
+"Good morning wishes" = "Пожелания доброго утра";
+
+/* No comment provided by engineer. */
+"Good morning, %@! 👋" = "Доброе утро, %@! 👋";
+
+/* No comment provided by engineer. */
+"Good morning%@!" = "Доброе утро, %@! ";
+
+/* No comment provided by engineer. */
+"GPS Location" = "GPS-местоположение";
+
+/* No comment provided by engineer. */
+"GPS recording:" = "GPS-запись:";
+
+/* No comment provided by engineer. */
+"Great progress today!" = "Большой прогресс сегодня!";
+
+/* No comment provided by engineer. */
+"Great, half done! You have now reached more than 50% of your step goal. 🥳 🥳" = "Отлично, половина дела сделана! Вы достигли более 50 % от запланированного количества шагов. 🥳 🥳";
+
+/* No comment provided by engineer. */
+"Great, your goal has been achieved! Your daily goal of at least %lld stairs has been reached.🥳 🥳" = "Отлично, ваша цель достигнута! Ваша ежедневная цель — как минимум %lld ступенек достигнута.🥳 🥳";
+
+/* No comment provided by engineer. */
+"green" = "Зеленый";
+
+/* No comment provided by engineer. */
+"Half-yearly" = "Полугодовой";
+
+/* No comment provided by engineer. */
+"Happiness is not a goal. Happiness is a way of life. Be happy today and share it with us... ✌️" = "Счастье – это не цель. Счастье – это образ жизни. Будьте счастливы сегодня и поделитесь этим с нами... ✌️";
+
+/* No comment provided by engineer. */
+"Haptic Feedback" = "Тактильная обратная связь";
+
+/* No comment provided by engineer. */
+"have a good morning 😃" = "доброе утро 😃";
+
+/* No comment provided by engineer. */
+"Health insurance" = "Медицинская страховка";
+
+/* No comment provided by engineer. */
+"healthCenter" = "оздоровительный центр";
+
+/* No comment provided by engineer. */
+"HealthKit" = "Аптечка здоровья";
+
+/* No comment provided by engineer. */
+"HealthKit Querys" = "Запросы на аптечку";
+
+/* No comment provided by engineer. */
+"healthStore HKObserverQuery Errors" = "Ошибки healthStore HKObserverQuery";
+
+/* No comment provided by engineer. */
+"healthStore Provider Errors" = "Ошибки поставщика healthStore";
+
+/* No comment provided by engineer. */
+"Hello %@!" = "Привет %@!";
+
+/* No comment provided by engineer. */
+"Hello!" = "Привет!";
+
+/* No comment provided by engineer. */
+"Hello...?!\nWhat may we call you? " = "Привет...?!\nКак мы можем тебя называть?";
+
+/* No comment provided by engineer. */
+"Hello%@!" = "Привет%@!";
+
+/* No comment provided by engineer. */
+"Hey! A new day, new experiences, don't you want to save them? ✌️" = "Привет! Новый день, новые впечатления, разве ты не хочешь их сохранить? ✌️";
+
+/* No comment provided by engineer. */
+"Hey! Describe\nyour pain!" = "Привет! Описывать\nВаша боль!";
+
+/* No comment provided by engineer. */
+"Hey! Has anything\nchanged?" = "Привет! Есть что-нибудь\nизмененный?";
+
+/* No comment provided by engineer. */
+"Hey! How are you\nfeeling today?" = "Привет! Как вы\nчувствуешь себя сегодня?";
+
+/* No comment provided by engineer. */
+"Hey! How are you feeling today? ✌️" = "Привет! Как самочувствие сегодня? ✌️";
+
+/* No comment provided by engineer. */
+"Hide information" = "Скрыть информацию";
+
+/* No comment provided by engineer. */
+"Highest" = "Наибольший";
+
+/* No comment provided by engineer. */
+"Home" = "Дом";
+
+/* No comment provided by engineer. */
+"Hospital" = "Больница";
+
+/* No comment provided by engineer. */
+"Hour" = "Час";
+
+/* No comment provided by engineer. */
+"How are you doing?" = "Как дела?";
+
+/* No comment provided by engineer. */
+"How are you doing? 🤔" = "Как дела? 🤔";
+
+/* No comment provided by engineer. */
+"How many steps would you like to walk a day?" = "Сколько шагов вы хотели бы проходить в день?";
+
+/* No comment provided by engineer. */
+"iCloud sync" = "синхронизация с iCloud";
+
+/* No comment provided by engineer. */
+"If no authorization window appears, all access can be granted under \"Settings > Prosthesis\"." = "Если окно авторизации не появляется, весь доступ можно предоставить в разделе «Настройки > Протез».";
+
+/* No comment provided by engineer. */
+"Import Contact" = "Импортировать контакт";
+
+/* No comment provided by engineer. */
+"in %lld day" = "через %lld день";
+
+/* No comment provided by engineer. */
+"in %lld days" = "через %lld дней";
+
+/* No comment provided by engineer. */
+"in %lld Mths, %lld Days" = "через %lld месяцев, %lld дней";
+
+/* No comment provided by engineer. */
+"In order to use the NFC functionality for timer control, you must first register your prostheses and liners in the app. By entering your prostheses under \"Prostheses and Liners\", you allow the app to configure individual timers for each type of prosthesis." = "Чтобы использовать функцию NFC для управления таймером, необходимо сначала зарегистрировать свои протезы и вкладыши в приложении. Указывая свои протезы в разделе «Протезы и вкладыши», вы разрешаете приложению настраивать индивидуальные таймеры для каждого типа протезов.";
+
+/* No comment provided by engineer. */
+"In the free version of our app you can add and manage up to three contacts." = "В бесплатной версии нашего приложения вы можете добавлять и управлять до тремя контактами.";
+
+/* No comment provided by engineer. */
+"info@email.de" = "info@email.de";
+
+/* No comment provided by engineer. */
+"Infomation" = "Информация";
+
+/* No comment provided by engineer. */
+"Insights and trends" = "Аналитика и тенденции";
+
+/* No comment provided by engineer. */
+"Instagram" = "Instagram";
+
+/* No comment provided by engineer. */
+"Internet connection via mobile network" = "Подключение к Интернету через мобильную сеть";
+
+/* No comment provided by engineer. */
+"Internet connection via WiFi" = "Подключение к Интернету через Wi-Fi";
+
+/* No comment provided by engineer. */
+"It's so quiet here without you...😢" = "Без тебя здесь так тихо...😢";
+
+/* No comment provided by engineer. */
+"Just two steps away." = "Всего в двух шагах.";
+
+/* No comment provided by engineer. */
+"Keep it up! 👏" = "Так держать! 👏";
+
+/* No comment provided by engineer. */
+"Keep it up! 🥳" = "Так держать! 🥳";
+
+/* No comment provided by engineer. */
+"Keep track of your phantom limb pain." = "Следите за своей фантомной болью в конечностях.";
+
+/* No comment provided by engineer. */
+"Kein Kontakt vorhanden!" = "Нет доступных контактов!";
+
+/* No comment provided by engineer. */
+"Kind: " = "Добрый";
+
+/* No comment provided by engineer. */
+"Kontakt" = "Контакт";
+
+/* No comment provided by engineer. */
+"Kontakt \n hinzufügen" = "Контакт \n добавлять";
+
+/* No comment provided by engineer. */
+"Kontakt hinzufügen" = "Добавить контакт";
+
+/* No comment provided by engineer. */
+"Last Liner: %@" = "Последний вкладыш: %@";
+
+/* No comment provided by engineer. */
+"Last Maintage:" = "Последнее обслуживание:";
+
+/* No comment provided by engineer. */
+"Last maintenance" = "Последнее обслуживание";
+
+/* No comment provided by engineer. */
+"Last Month" = "Прошлый месяц";
+
+/* No comment provided by engineer. */
+"Last name" = "Фамилия";
+
+/* No comment provided by engineer. */
+"Last name:" = "Фамилия:";
+
+/* No comment provided by engineer. */
+"Last report:" = "Последний отчет:";
+
+/* No comment provided by engineer. */
+"Last week" = "На прошлой неделе";
+
+/* No comment provided by engineer. */
+"Last Week" = "На прошлой неделе";
+
+/* No comment provided by engineer. */
+"Liners for your Prostheses" = "Вкладыши для ваших протезов";
+
+/* No comment provided by engineer. */
+"Location" = "Расположение";
+
+/* No comment provided by engineer. */
+"Location Icon" = "Значок местоположения";
+
+/* No comment provided by engineer. */
+"Log in" = "Авторизоваться";
+
+/* No comment provided by engineer. */
+"Login with Face ID" = "Войти с помощью Face ID";
+
+/* No comment provided by engineer. */
+"Logo" = "Логотип";
+
+/* No comment provided by engineer. */
+"low" = "низкий";
+
+/* No comment provided by engineer. */
+"Lowest" = "Самый низкий";
+
+/* No comment provided by engineer. */
+"Maintage Interval:" = "Интервал обслуживания:";
+
+/* No comment provided by engineer. */
+"Maintaince of the Everyday Prosthesis" = "Обслуживание повседневного протеза";
+
+/* No comment provided by engineer. */
+"Maintaince of the Replacement Prosthesis" = "Уход за сменным протезом";
+
+/* No comment provided by engineer. */
+"Maintaince of the Sports Prosthesis" = "Обслуживание спортивного протеза";
+
+/* No comment provided by engineer. */
+"Maintaince of the Waterproof Prosthesis" = "Уход за водонепроницаемым протезом";
+
+/* No comment provided by engineer. */
+"Maintenance due" = "Срок технического обслуживания";
+
+/* No comment provided by engineer. */
+"Maintenance interval" = "Интервал технического обслуживания";
+
+/* No comment provided by engineer. */
+"Maintenance was another day" = "Техническое обслуживание было в другой день";
+
+/* No comment provided by engineer. */
+"Maintenance was today" = "Техническое обслуживание было сегодня";
+
+/* No comment provided by engineer. */
+"Manage all your Prosthesis" = "Управляйте всеми своими протезами";
+
+/* No comment provided by engineer. */
+"Manage all your Prosthesis-Liners" = "Управляйте всеми своими вкладышами для протезов";
+
+/* No comment provided by engineer. */
+"Manage parameters" = "Управление параметрами";
+
+/* No comment provided by engineer. */
+"Manage Prostheses and Liners" = "Управление протезами и вкладышами";
+
+/* No comment provided by engineer. */
+"Manage Prosthesis & Liners" = "Управление протезами и вкладышами";
+
+/* No comment provided by engineer. */
+"Manage unlimited contacts" = "Управление неограниченным количеством контактов";
+
+/* No comment provided by engineer. */
+"Max" = "John";
+
+/* No comment provided by engineer. */
+"Medical supply store" = "Магазин медицинских товаров";
+
+/* No comment provided by engineer. */
+"Mister" = "Господин";
+
+/* No comment provided by engineer. */
+"Mobil" = "Мобильный";
+
+/* No comment provided by engineer. */
+"Mobilphone Nr." = "Номер мобильного телефона.";
+
+/* No comment provided by engineer. */
+"Mobilphone:" = "Мобильный телефон:";
+
+/* No comment provided by engineer. */
+"Month" = "Месяц";
+
+/* No comment provided by engineer. */
+"Monthly" = "Ежемесячно";
+
+/* No comment provided by engineer. */
+"Montly Mood Trend" = "Ежемесячный тренд настроения";
+
+/* No comment provided by engineer. */
+"Montly Pain Trend" = "Ежемесячная тенденция боли";
+
+/* No comment provided by engineer. */
+"Mood Chart" = "Таблица настроения";
+
+/* No comment provided by engineer. */
+"Moods" = "Настроения";
+
+/* No comment provided by engineer. */
+"More premium widgets" = "Больше виджетов премиум-класса";
+
+/* No comment provided by engineer. */
+"More settings" = "Больше настроек";
+
+/* No comment provided by engineer. */
+"More than %lld steps. 🥳 🎉" = "Более %lld шагов. 🥳 🎉";
+
+/* No comment provided by engineer. */
+"More widget" = "Еще виджет";
+
+/* No comment provided by engineer. */
+"Most pain at %lld °C" = "Наибольшая боль при %lld °C";
+
+/* No comment provided by engineer. */
+"Most pain at %lld °F" = "Наибольшая боль при %lld °F";
+
+/* No comment provided by engineer. */
+"Most pain at %lld hPa" = "Наибольшая боль при %lld гПа";
+
+/* No comment provided by engineer. */
+"Most pain with high activity" = "Наибольшая боль при высокой активности";
+
+/* No comment provided by engineer. */
+"Most pain with low activity" = "Большая боль при низкой активности";
+
+/* No comment provided by engineer. */
+"Mostly at midday" = "В основном в полдень";
+
+/* No comment provided by engineer. */
+"Mostly in the afternoon" = "В основном во второй половине дня";
+
+/* No comment provided by engineer. */
+"Mostly in the evening" = "В основном вечером";
+
+/* No comment provided by engineer. */
+"Mostly in the morning" = "В основном утром";
+
+/* No comment provided by engineer. */
+"Mostly in the night" = "В основном ночью";
+
+/* No comment provided by engineer. */
+"Musterman" = "Smith";
+
+/* No comment provided by engineer. */
+"My progress with the Pro Prosthesis App. https://www.prothese.pro/store" = "Мой прогресс в использовании приложения Pro Prosthesis. https://www.prothese.pro/store";
+
+/* No comment provided by engineer. */
+"Name" = "Имя";
+
+/* No comment provided by engineer. */
+"Name:" = "Имя:";
+
+/* No comment provided by engineer. */
+"Neuer Grund" = "Новая причина";
+
+/* No comment provided by engineer. */
+"New Contact" = "Новый контакт";
+
+/* No comment provided by engineer. */
+"News" = "Новости";
+
+/* No comment provided by engineer. */
+"next" = "следующий";
+
+/* No comment provided by engineer. */
+"Next Month" = "В следующем месяце";
+
+/* No comment provided by engineer. */
+"Next Week" = "На следующей неделе";
+
+/* No comment provided by engineer. */
+"NFC settings and management" = "Настройки и управление NFC";
+
+/* No comment provided by engineer. */
+"NFC tag name" = "Имя тега NFC";
+
+/* No comment provided by engineer. */
+"No\nProsthesis" = "Нет\nПротез";
+
+/* No comment provided by engineer. */
+"No change from the previous day!" = "Никаких изменений по сравнению с предыдущим днем!";
+
+/* No comment provided by engineer. */
+"No contact available." = "Нет доступных контактов.";
+
+/* No comment provided by engineer. */
+"No dates available." = "Нет доступных дат.";
+
+/* No comment provided by engineer. */
+"No Email" = "Нет электронной почты";
+
+/* No comment provided by engineer. */
+"No events for next month!" = "В следующем месяце событий нет!";
+
+/* No comment provided by engineer. */
+"No events for next week!" = "На следующей неделе событий нет!";
+
+/* No comment provided by engineer. */
+"No events for this month!" = "Нет событий на этот месяц!";
+
+/* No comment provided by engineer. */
+"No events for this week!" = "На этой неделе событий нет!";
+
+/* No comment provided by engineer. */
+"No Feeling Found" = "Чувство не найдено";
+
+/* No comment provided by engineer. */
+"No Internet connection" = "Нет соединения с интернетом";
+
+/* No comment provided by engineer. */
+"No Kind" = "Нет Вид";
+
+/* No comment provided by engineer. */
+"No notes available!" = "Нет доступных заметок!";
+
+/* No comment provided by engineer. */
+"No notifications available." = "Нет доступных уведомлений.";
+
+/* No comment provided by engineer. */
+"No pain recorded!" = "Боли не зафиксировано!";
+
+/* No comment provided by engineer. */
+"No Painkiller" = "Нет обезболивающего";
+
+/* No comment provided by engineer. */
+"No painkillers available" = "Обезболивающих нет";
+
+/* No comment provided by engineer. */
+"No Phone" = "Нет телефона";
+
+/* No comment provided by engineer. */
+"No pressure data" = "Нет данных о давлении";
+
+/* No comment provided by engineer. */
+"No Prostheses" = "Никаких протезов";
+
+/* No comment provided by engineer. */
+"No prostheses with maintenance dates available!" = "Нет протезов с датами обслуживания!";
+
+/* No comment provided by engineer. */
+"No Prosthesis" = "Никаких протезов";
+
+/* No comment provided by engineer. */
+"No prosthesis found" = "Протез не найден";
+
+/* No comment provided by engineer. */
+"No Prosthesis Liner" = "Без вкладыша протеза";
+
+/* No comment provided by engineer. */
+"No Prosthesis-Liner avaible!" = "Нет в наличии вкладыша для протеза!";
+
+/* No comment provided by engineer. */
+"No prosthetic data" = "Нет данных о протезировании";
+
+/* No comment provided by engineer. */
+"No Reason" = "Нет причин";
+
+/* No comment provided by engineer. */
+"No reasons available" = "Нет доступных причин";
+
+/* No comment provided by engineer. */
+"No step data" = "Нет данных о шагах";
+
+/* No comment provided by engineer. */
+"No time" = "Нет времени";
+
+/* No comment provided by engineer. */
+"No time date" = "Нет даты и времени";
+
+/* No comment provided by engineer. */
+"No Type" = "Нет типа";
+
+/* No comment provided by engineer. */
+"No weather data" = "Нет данных о погоде";
+
+/* No comment provided by engineer. */
+"none" = "никто";
+
+/* No comment provided by engineer. */
+"NONE" = "НИКТО";
+
+/* No comment provided by engineer. */
+"Notification" = "Уведомление";
+
+/* No comment provided by engineer. */
+"Notification Handler States" = "Состояния обработчика уведомлений";
+
+/* No comment provided by engineer. */
+"Notification Menus" = "Меню уведомлений";
+
+/* No comment provided by engineer. */
+"Notifications" = "Уведомления";
+
+/* No comment provided by engineer. */
+"notify" = "поставить в известность";
+
+/* No comment provided by engineer. */
+"Notiz" = "примечание";
+
+/* No comment provided by engineer. */
+"Now Playing" = "Сейчас играет";
+
+/* No comment provided by engineer. */
+"Number of entries" = "Количество входов";
+
+/* No comment provided by engineer. */
+"Ø %@ hrs. %@ mins." = "Ø %@ часов. %@ мин.";
+
+/* No comment provided by engineer. */
+"Ø %@ Steps" = "Ø %@ Шаги";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"On what date did you get your first prosthesis?" = "Когда вы получили свой первый протез?";
+
+/* No comment provided by engineer. */
+"One to Many" = "Один ко многим";
+
+/* No comment provided by engineer. */
+"One to One" = "Один к одному";
+
+/* No comment provided by engineer. */
+"Options" = "Параметры";
+
+/* No comment provided by engineer. */
+"orange" = "оранжевый";
+
+/* No comment provided by engineer. */
+"Order your liner for the Everyday Prosthesis in good time!" = "Закажите вкладыш для повседневного протеза заранее!";
+
+/* No comment provided by engineer. */
+"Order your liner for the Replacement Prosthesis in good time!" = "Закажите вкладыш для сменного протеза заранее!";
+
+/* No comment provided by engineer. */
+"Order your liner for the Sports Prosthesis in good time!" = "Закажите вкладыш для спортивного протеза заранее!";
+
+/* No comment provided by engineer. */
+"Order your liner for the Waterproof Prosthesis in good time!" = "Закажите вкладыш для водонепроницаемого протеза заранее!";
+
+/* No comment provided by engineer. */
+"Order your liners for the your prostheses in time!" = "Заказывайте вкладыши для протезов вовремя!";
+
+/* No comment provided by engineer. */
+"Orderable" = "Заказной";
+
+/* No comment provided by engineer. */
+"orthopedist" = "ортопед";
+
+/* No comment provided by engineer. */
+"other painkillers" = "другие обезболивающие";
+
+/* No comment provided by engineer. */
+"other reason" = "другая причина";
+
+/* No comment provided by engineer. */
+"Others" = "Другие";
+
+/* No comment provided by engineer. */
+"Page Header" = "Заголовок страницы";
+
+/* No comment provided by engineer. */
+"Pain" = "Боль";
+
+/* No comment provided by engineer. */
+"Pain assessment" = "Оценка боли";
+
+/* No comment provided by engineer. */
+"Pain average per reason" = "Боль в среднем по причине";
+
+/* No comment provided by engineer. */
+"Pain Chart" = "Таблица боли";
+
+/* No comment provided by engineer. */
+"Pain from %@" = "Боль от %@";
+
+/* No comment provided by engineer. */
+"Pain reasons:" = "Причины боли:";
+
+/* No comment provided by engineer. */
+"Painkiller" = "обезболивающее";
+
+/* No comment provided by engineer. */
+"Painkiller:" = "обезболивающее:";
+
+/* No comment provided by engineer. */
+"Pains" = "Боли";
+
+/* No comment provided by engineer. */
+"Participation in further development" = "Участие в дальнейшем развитии";
+
+/* No comment provided by engineer. */
+"Password" = "Пароль";
+
+/* No comment provided by engineer. */
+"Past appointments" = "Прошлые встречи";
+
+/* No comment provided by engineer. */
+"Pedometer" = "Шагомер";
+
+/* No comment provided by engineer. */
+"Personal organizer" = "Персональный органайзер";
+
+/* No comment provided by engineer. */
+"Personal Settings" = "Персональные настройки";
+
+/* No comment provided by engineer. */
+"Phone" = "Телефон";
+
+/* No comment provided by engineer. */
+"Phone Nr." = "Номер телефона.";
+
+/* No comment provided by engineer. */
+"Phone:" = "Телефон:";
+
+/* No comment provided by engineer. */
+"Physiotherapist" = "Физиотерапевт";
+
+/* No comment provided by engineer. */
+"pink" = "розовый";
+
+/* No comment provided by engineer. */
+"Please choose" = "Пожалуйста, выбери";
+
+/* No comment provided by engineer. */
+"Please enter a name!" = "Пожалуйста, введите имя!";
+
+/* No comment provided by engineer. */
+"Please enter an appointment description!" = "Пожалуйста, введите описание встречи!";
+
+/* No comment provided by engineer. */
+"Please enter an DeepLink." = "Введите DeepLink.";
+
+/* No comment provided by engineer. */
+"Please enter your first name." = "Пожалуйста, введите ваше имя.";
+
+/* No comment provided by engineer. */
+"Please enter your username and password." = "Пожалуйста введите свой логин и пароль.";
+
+/* No comment provided by engineer. */
+"Please provide a contact!" = "Пожалуйста, дайте контакт!";
+
+/* No comment provided by engineer. */
+"Premium membership" = "Премиум-членство";
+
+/* No comment provided by engineer. */
+"Premium options" = "Премиум-опции";
+
+/* No comment provided by engineer. */
+"Premium statistics" = "Премиум статистика";
+
+/* No comment provided by engineer. */
+"Premium support for users" = "Премиум-поддержка для пользователей";
+
+/* No comment provided by engineer. */
+"previous" = "предыдущий";
+
+/* No comment provided by engineer. */
+"Previous" = "Предыдущий";
+
+/* No comment provided by engineer. */
+"pro" = "про";
+
+/* No comment provided by engineer. */
+"Pro" = "Про";
+
+/* No comment provided by engineer. */
+"PRO" = "ПРО";
+
+/* No comment provided by engineer. */
+"Pro Prosthesis on Instagram" = "Про Протез в Instagram";
+
+/* No comment provided by engineer. */
+"Pro Prothese" = "Профессиональный протез";
+
+/* No comment provided by engineer. */
+"Pro Prothese APP v%@" = "Приложение Pro Prosthesis v%@";
+
+/* No comment provided by engineer. */
+"Pro Prothese Setup" = "Про Протез установка";
+
+/* No comment provided by engineer. */
+"Pro Prothese v%@" = "Про Протез v%@";
+
+/* No comment provided by engineer. */
+"Pro Prothese Workout" = "Про Протез Тренировка";
+
+/* No comment provided by engineer. */
+"ProFeature and ProWidgets" = "ProFeature и ProWidgets";
+
+/* No comment provided by engineer. */
+"Progress of wearing times." = "Прогресс времени ношения.";
+
+/* No comment provided by engineer. */
+"ProProthese://%@" = "ПроПротез://%@";
+
+/* No comment provided by engineer. */
+"Prostheses Mood Chart" = "Диаграмма настроения протезов";
+
+/* No comment provided by engineer. */
+"Prostheses Pain Chart" = "Таблица боли при протезировании";
+
+/* No comment provided by engineer. */
+"Prostheses worn on %@" = "Протезы носят %@";
+
+/* No comment provided by engineer. */
+"Prostheses you have worn in the last %lld days." = "Протезы, которые вы носили за последние %lld дней.";
+
+/* No comment provided by engineer. */
+"Prosthesis" = "Протез";
+
+/* No comment provided by engineer. */
+"Prosthesis & Liners" = "Протезы и вкладыши";
+
+/* No comment provided by engineer. */
+"prosthesis day." = "день протезирования.";
+
+/* No comment provided by engineer. */
+"Prosthesis liner" = "Вкладыш протеза";
+
+/* No comment provided by engineer. */
+"Prosthesis Liner" = "Вкладыш протеза";
+
+/* No comment provided by engineer. */
+"Prosthesis maintenance" = "Обслуживание протезов";
+
+/* No comment provided by engineer. */
+"Prosthesis wearing time" = "Срок ношения протеза";
+
+/* No comment provided by engineer. */
+"Prosthetic liner" = "Протезный вкладыш";
+
+/* No comment provided by engineer. */
+"Protect your data with FaceID" = "Защитите свои данные с помощью FaceID";
+
+/* No comment provided by engineer. */
+"Prothese" = "Профессиональный протез";
+
+/* No comment provided by engineer. */
+"Prothese APP v%@" = "Приложение Pro Prosthesis v%@";
+
+/* No comment provided by engineer. */
+"Psychiatrist" = "Психиатр";
+
+/* No comment provided by engineer. */
+"Psychologist" = "Психолог";
+
+/* No comment provided by engineer. */
+"Push Notification" = "Отправить уведомление";
+
+/* No comment provided by engineer. */
+"Quarterly" = "Ежеквартальный";
+
+/* No comment provided by engineer. */
+"Rate the app" = "Оцените приложение";
+
+/* No comment provided by engineer. */
+"Reason" = "Причина";
+
+/* No comment provided by engineer. */
+"Received another day" = "Получил еще один день";
+
+/* No comment provided by engineer. */
+"Recieved today" = "Получено сегодня";
+
+/* No comment provided by engineer. */
+"Recommend app" = "Рекомендовать приложение";
+
+/* No comment provided by engineer. */
+"Regular" = "Обычный";
+
+/* No comment provided by engineer. */
+"Reminder: The next maintenance of your %@ is due in 2 weeks." = "Напоминание: следующее техническое обслуживание вашего %@ должно состояться через 2 недели.";
+
+/* No comment provided by engineer. */
+"Reminder: The next maintenance of your %@ is due in 4 weeks." = "Напоминание: следующее обслуживание вашего %@ должно состояться через 4 недели.";
+
+/* No comment provided by engineer. */
+"Reminder: The next maintenance of your %@ is overdue. Is there a delay? 😔" = "Напоминание: следующее техническое обслуживание вашего %@ просрочено. Есть ли задержка? 😔\n";
+
+/* No comment provided by engineer. */
+"Reminds you daily the set time, the day of your daily mood." = "Напоминает вам ежедневно установленное время, день вашего ежедневного настроения.";
+
+/* No comment provided by engineer. */
+"Reminds you daily to keep your data up to date in the app." = "Ежедневно напоминает вам о необходимости обновлять данные в приложении.";
+
+/* No comment provided by engineer. */
+"Repeating notifications" = "Повторяющиеся уведомления";
+
+/* No comment provided by engineer. */
+"Replacement" = "Замена";
+
+/* No comment provided by engineer. */
+"Replacement\nProsthesis" = "Замена\nПротез";
+
+/* No comment provided by engineer. */
+"Replacement Prosthesis" = "Запасной протез";
+
+/* No comment provided by engineer. */
+"Replacement Prosthesis Liner" = "Сменный вкладыш протеза";
+
+/* No comment provided by engineer. */
+"Required Permissions" = "Требуемые разрешения";
+
+/* No comment provided by engineer. */
+"Reset" = "Перезагрузить";
+
+/* No comment provided by engineer. */
+"Reset Half State" = "Сбросить полусостояние";
+
+/* No comment provided by engineer. */
+"Reset step goal 50% reached message Date" = "Сбросить цель по шагам: достигнуто 50% Сообщение Дата";
+
+/* No comment provided by engineer. */
+"Reset step goal reached message Date" = "Сбросить сообщение о достижении цели шага Дата";
+
+/* No comment provided by engineer. */
+"Restore" = "Восстановить";
+
+/* No comment provided by engineer. */
+"Rhythm" = "Ритм";
+
+/* No comment provided by engineer. */
+"Salutation" = "Приветствие";
+
+/* No comment provided by engineer. */
+"Save" = "Сохранять";
+
+/* No comment provided by engineer. */
+"Saved data" = "Сохраненные данные";
+
+/* No comment provided by engineer. */
+"Saving workout" = "Сохранение тренировки";
+
+/* No comment provided by engineer. */
+"Security" = "Безопасность";
+
+/* No comment provided by engineer. */
+"Select a prostheses for which you want to start the timer." = "Выберите протезы, для которых вы хотите запустить таймер.";
+
+/* No comment provided by engineer. */
+"Send appointment notification" = "Отправить уведомление о встрече";
+
+/* No comment provided by engineer. */
+"Send Email" = "Отправить электронное письмо";
+
+/* No comment provided by engineer. */
+"Set FirstLaunchDate to -1 Day" = "становите для FirstLaunchDate значение -1 день.";
+
+/* No comment provided by engineer. */
+"Set FirstLaunchDate to now" = "Установите для FirstLaunchDate значение сейчас.";
+
+/* No comment provided by engineer. */
+"Set interval" = "Установить интервал";
+
+/* No comment provided by engineer. */
+"Set LastLaunchDate -33h" = "Установить дату последнего запуска -33 часа";
+
+/* No comment provided by engineer. */
+"Set Report -1 Day" = "Установить отчет -1 день";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Setup Assistant" = "Ассистент настройки";
+
+/* No comment provided by engineer. */
+"Share" = "Делиться";
+
+/* No comment provided by engineer. */
+"Show" = "Показывать";
+
+/* No comment provided by engineer. */
+"Show all expired appointments of the last week in the event list view." = "Показать все просроченные встречи за последнюю неделю в списке событий.";
+
+/* No comment provided by engineer. */
+"Show all prostheses" = "Показать все протезы";
+
+/* No comment provided by engineer. */
+"Show goal steps in chart background." = "Показывать шаги цели на фоне диаграммы.";
+
+/* No comment provided by engineer. */
+"Show less" = "Показывай меньше";
+
+/* No comment provided by engineer. */
+"Show step goal" = "Показать цель по шагам";
+
+/* No comment provided by engineer. */
+"Show the average daily steps in the chart background." = "Покажите средние дневные шаги на фоне диаграммы.";
+
+/* No comment provided by engineer. */
+"since %@" = "с %@";
+
+/* No comment provided by engineer. */
+"SnapShot" = "SnapShot";
+
+/* No comment provided by engineer. */
+"Specialist Clinic" = "Специализированная клиника";
+
+/* No comment provided by engineer. */
+"Sport Prostheses" = "Спортивные протезы";
+
+/* No comment provided by engineer. */
+"Sports" = "Виды спорта";
+
+/* No comment provided by engineer. */
+"Sports\nProsthesis" = "Виды спорта\nПротез";
+
+/* No comment provided by engineer. */
+"Sports Prosthesis" = "Спортивный протез";
+
+/* No comment provided by engineer. */
+"Sports Prosthesis Liner" = "Вкладыш спортивного протеза";
+
+/* No comment provided by engineer. */
+"Standard statistics" = "Стандартная статистика";
+
+/* No comment provided by engineer. */
+"Start" = "Начинать";
+
+/* No comment provided by engineer. */
+"START" = "НАЧИНАТЬ";
+
+/* No comment provided by engineer. */
+"Start the day well 🦾 🦾" = "Начни день хорошо 🦾 🦾";
+
+/* No comment provided by engineer. */
+"States" = "состояния";
+
+/* No comment provided by engineer. */
+"Statistic" = "Статистика";
+
+/* No comment provided by engineer. */
+"Statistics" = "Статистика";
+
+/* No comment provided by engineer. */
+"Step history of the last 8 weeks." = "История шагов за последние 8 недель.";
+
+/* No comment provided by engineer. */
+"Step Trend" = "Шаг тренда";
+
+/* No comment provided by engineer. */
+"Steps" = "Шаги";
+
+/* No comment provided by engineer. */
+"Steps compared to the previous month." = "Шаги по сравнению с предыдущим месяцем.";
+
+/* No comment provided by engineer. */
+"Steps compared to yesterday." = "Шаги по сравнению со вчерашним днем.";
+
+/* No comment provided by engineer. */
+"Steps from last week" = "Шаги с прошлой недели";
+
+/* No comment provided by engineer. */
+"Steps this month" = "Шаги в этом месяце";
+
+/* No comment provided by engineer. */
+"Steps this week" = "Шаги на этой неделе";
+
+/* No comment provided by engineer. */
+"Steps today" = "Шаги сегодня";
+
+/* No comment provided by engineer. */
+"Stop the timer on your iPhone." = "Остановите таймер на вашем iPhone.";
+
+/* No comment provided by engineer. */
+"StopWatchToggle" = "StopWatchToggle";
+
+/* No comment provided by engineer. */
+"Suggestion for improvement" = "Предложение по улучшению";
+
+/* No comment provided by engineer. */
+"Summary" = "Краткое содержание";
+
+/* No comment provided by engineer. */
+"Support" = "Поддерживать";
+
+/* No comment provided by engineer. */
+"Support us" = "Поддерживать нас";
+
+/* No comment provided by engineer. */
+"Supporter" = "Сторонник";
+
+/* No comment provided by engineer. */
+"Supporter subscription" = "Подписка сторонника";
+
+/* No comment provided by engineer. */
+"System" = "Система";
+
+/* No comment provided by engineer. */
+"System access" = "Доступ к системе";
+
+/* No comment provided by engineer. */
+"T" = "T";
+
+/* No comment provided by engineer. */
+"Take a picture" = "Сделать фото";
+
+/* No comment provided by engineer. */
+"Task:" = "Задача:";
+
+/* No comment provided by engineer. */
+"Task`s" = "Задача";
+
+/* No comment provided by engineer. */
+"Tell me about your day 🦾 🦾" = "Расскажи мне о своем дне 🦾 🦾";
+
+/* No comment provided by engineer. */
+"Temperatures" = "Температура";
+
+/* No comment provided by engineer. */
+"Termin" = "встреча";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Условия эксплуатации";
+
+/* No comment provided by engineer. */
+"The contact details refer to the general contact information such as \"Headquarters\". You can add additional contacts later." = "Контактная информация относится к общей контактной информации, такой как «Главный офис». Дополнительные контакты можно добавить позже.";
+
+/* No comment provided by engineer. */
+"The developer" = "Разработчик";
+
+/* No comment provided by engineer. */
+"The next maintenance appointment for your Everyday Prosthesis!" = "Следующий визит к техническому обслуживанию вашего повседневного протеза!";
+
+/* No comment provided by engineer. */
+"The next maintenance appointment for your Replacement Prosthesis!" = "Следующий визит на техническое обслуживание вашего замещающего протеза!";
+
+/* No comment provided by engineer. */
+"The next maintenance appointment for your Sports Prosthesis!" = "Следующий визит на техническое обслуживание вашего спортивного протеза!";
+
+/* No comment provided by engineer. */
+"The next maintenance appointment for your Waterproof Prosthesis!" = "Следующий визит к техническому обслуживанию вашего водонепроницаемого протеза!";
+
+/* No comment provided by engineer. */
+"The pain recorder is available in the current version. A more detailed recording is planned, in combination with a medication plan/reminder. In addition, a PDF creation of the documented data is planned, which can be easily shared or emailed to the appropriate contacts. In addition, other widgets and statistics are created." = "Регистратор боли доступен в текущей версии. Планируется более подробная запись в сочетании с планом приема лекарств/напоминанием. Кроме того, планируется создание документированных данных в формате PDF, которым можно будет легко поделиться или отправить по электронной почте соответствующим контактам. Кроме того, создаются другие виджеты и статистика.";
+
+/* No comment provided by engineer. */
+"The parameters “reasons” and “painkillers” can be deleted here. Editing is not possible. The parameters can be recreated when editing or creating the pain record." = "Параметры «причины» и «обезболивающие» здесь можно удалить. Редактирование невозможно. Параметры можно воссоздать при редактировании или создании записи боли.";
+
+/* No comment provided by engineer. */
+"The summary of your current progress for the last week is now available." = "Теперь доступна сводка вашего текущего прогресса за последнюю неделю.";
+
+/* No comment provided by engineer. */
+"The time goes by so fast" = "Время идет так быстро";
+
+/* No comment provided by engineer. */
+"The timer for your prosthesis could not be started!" = "Не удалось запустить таймер вашего протеза!";
+
+/* No comment provided by engineer. */
+"The weekly wear time" = "Еженедельное время ношения";
+
+/* No comment provided by engineer. */
+"There were no events last week!" = "На прошлой неделе событий не было!";
+
+/* No comment provided by engineer. */
+"Thin" = "Тонкий";
+
+/* No comment provided by engineer. */
+"Think of your prosthesis diary and behave in your time. ✌️" = "Подумайте о своем дневнике протезирования и ведите себя в свое время. ✌️";
+
+/* No comment provided by engineer. */
+"This Month" = "Этот месяц";
+
+/* No comment provided by engineer. */
+"This Week" = "На этой неделе";
+
+/* No comment provided by engineer. */
+"Times" = "Время:";
+
+/* No comment provided by engineer. */
+"Times of Day" = "Время суток";
+
+/* No comment provided by engineer. */
+"Titel" = "Название";
+
+/* No comment provided by engineer. */
+"To edit this entry??" = "Редактировать эту запись??";
+
+/* No comment provided by engineer. */
+"today" = "сегодня";
+
+/* No comment provided by engineer. */
+"Today" = "Сегодня";
+
+/* No comment provided by engineer. */
+"Today's wearing time" = "Сегодня время ношения";
+
+/* No comment provided by engineer. */
+"Top-Left" = "Верхний левый";
+
+/* No comment provided by engineer. */
+"Top-Right" = "В правом верхнем углу";
+
+/* No comment provided by engineer. */
+"Total Distance" = "Общее расстояние";
+
+/* No comment provided by engineer. */
+"Total Wearingtime" = "Общее время ношения";
+
+/* No comment provided by engineer. */
+"Tracking" = "Отслеживание";
+
+/* No comment provided by engineer. */
+"Trail" = "Тащить";
+
+/* No comment provided by engineer. */
+"Trends" = "Тенденции";
+
+/* No comment provided by engineer. */
+"Try it for 7 days for free" = "Попробуйте 7 дней бесплатно";
+
+/* No comment provided by engineer. */
+"Type: " = "Тип:";
+
+/* No comment provided by engineer. */
+"Unbegrenzt Kontakten Verwalten" = "Управление неограниченным количеством контактов";
+
+/* No comment provided by engineer. */
+"Unknown" = "Неизвестный";
+
+/* No comment provided by engineer. */
+"Unknown ID" = "Неизвестный идентификатор";
+
+/* No comment provided by engineer. */
+"Unlimited contacts" = "Неограниченное количество контактов";
+
+/* No comment provided by engineer. */
+"Update to unlock all Pro functionality" = "Обновите, чтобы разблокировать все функции версии Pro.";
+
+/* No comment provided by engineer. */
+"value" = "значение";
+
+/* No comment provided by engineer. */
+"View all" = "Посмотреть все";
+
+/* No comment provided by engineer. */
+"View all expired appointments" = "Просмотреть все просроченные встречи";
+
+/* No comment provided by engineer. */
+"View all expired appointments from the last week" = "Просмотр всех просроченных встреч за последнюю неделю";
+
+/* No comment provided by engineer. */
+"View average daily steps" = "Просмотр среднего количества шагов за день";
+
+/* No comment provided by engineer. */
+"View currrent steps in app badge." = "Просмотрите текущие шаги на значке приложения.";
+
+/* No comment provided by engineer. */
+"View dentures worn today" = "Посмотреть протезы, которые носили сегодня";
+
+/* No comment provided by engineer. */
+"View your prosthesis timer on your lock screen and Dynamic Island." = "Просматривайте таймер протеза на экране блокировки и в Dynamic Island.";
+
+/* No comment provided by engineer. */
+"warmth" = "тепло";
+
+/* No comment provided by engineer. */
+"Waterproof" = "Водонепроницаемый";
+
+/* No comment provided by engineer. */
+"Waterproof\nProsthesis" = "Водонепроницаемый\nПротез";
+
+/* No comment provided by engineer. */
+"Waterproof Prosthesis" = "Водонепроницаемый протез";
+
+/* No comment provided by engineer. */
+"Waterproof Prosthesis Liner" = "Водонепроницаемый вкладыш для протеза";
+
+/* No comment provided by engineer. */
+"We haven't seen you today 😢" = "Мы вас сегодня не видели 😢";
+
+/* No comment provided by engineer. */
+"We'll help you set up the app!" = "Мы поможем вам настроить приложение!";
+
+/* No comment provided by engineer. */
+"Wearing time" = "Время ношения";
+
+/* No comment provided by engineer. */
+"Wearing times chart" = "Таблица времени ношения";
+
+/* No comment provided by engineer. */
+"weather" = "погода";
+
+/* No comment provided by engineer. */
+"Weather" = "Погода";
+
+/* No comment provided by engineer. */
+"Week Step" = "Недельный шаг";
+
+/* No comment provided by engineer. */
+"Week: **%@**" = "Неделя: **%@**";
+
+/* No comment provided by engineer. */
+"Weekly" = "Еженедельно";
+
+/* No comment provided by engineer. */
+"Weekly Avg Target" = "Среднее недельное целевое значение";
+
+/* No comment provided by engineer. */
+"Weekly Avg Wearing Time" = "Среднее время ношения за неделю";
+
+/* No comment provided by engineer. */
+"Weekly Mood Trend" = "Еженедельный тренд настроения";
+
+/* No comment provided by engineer. */
+"Weekly Pain Trend" = "Еженедельный тренд боли";
+
+/* No comment provided by engineer. */
+"Weekly progress report" = "Еженедельный отчет о ходе работы";
+
+/* No comment provided by engineer. */
+"Weekly report" = "Еженедельный отчет";
+
+/* No comment provided by engineer. */
+"Weekly Report" = "Еженедельный отчет";
+
+/* No comment provided by engineer. */
+"Weekly reports" = "Еженедельные отчеты";
+
+/* No comment provided by engineer. */
+"Weekly Steps Chart" = "Еженедельный график шагов";
+
+/* No comment provided by engineer. */
+"Weekly Target" = "Еженедельная цель";
+
+/* No comment provided by engineer. */
+"Welcome to Pro Prosthesis!" = "Добро пожаловать в Про Протез!";
+
+/* No comment provided by engineer. */
+"What date was\nyour amputation?" = "Какая дата была\nтвоя ампутация?";
+
+/* No comment provided by engineer. */
+"What is the name of the liner model?" = "Как называется модель лайнера?";
+
+/* No comment provided by engineer. */
+"What kind of prosthesis would you like to add?" = "Какой протез вы хотели бы добавить?";
+
+/* No comment provided by engineer. */
+"What prosthesis" = "Какой протез";
+
+/* No comment provided by engineer. */
+"What prosthesis\ndid you wear?" = "Какой протез\nты носил?";
+
+/* No comment provided by engineer. */
+"What purpose would you like to add?" = "Какую цель вы хотели бы добавить?";
+
+/* No comment provided by engineer. */
+"What type of prosthesis would you like to add?" = "Какой тип протеза вы хотели бы добавить?";
+
+/* No comment provided by engineer. */
+"What was your last pain?" = "Какая была твоя последняя боль?";
+
+/* No comment provided by engineer. */
+"What's the name of the manufacturer?" = "Как называется производитель?";
+
+/* No comment provided by engineer. */
+"When BG Task is running" = "Когда задача BG запущена";
+
+/* No comment provided by engineer. */
+"With an upgrade to the premium \n version, the app gets even better!" = "С переходом на Премиум \n версию, приложение становится еще лучше!";
+
+/* No comment provided by engineer. */
+"With an upgrade to the premium version,\nthe app gets even better!" = "При обновлении до премиум-версии\nприложение становится еще лучше!";
+
+/* No comment provided by engineer. */
+"With the subscription you support the continuous development of the prosthesis app! \n at €9.99 per year!" = "Оформив подписку, вы поддерживаете постоянное развитие приложения для протезов! \n за 9,99 евро в год!";
+
+/* No comment provided by engineer. */
+"Wöchentlich" = "Еженедельно";
+
+/* No comment provided by engineer. */
+"Woman" = "Женщина";
+
+/* No comment provided by engineer. */
+"Workouts" = "Тренировки";
+
+/* No comment provided by engineer. */
+"Worn prostheses" = "Изношенные протезы";
+
+/* No comment provided by engineer. */
+"WOW, you've already walked %lld steps today, that's more than half of your daily goal. 🥳 👏" = "ВАУ! Сегодня вы уже прошли %lld шагов, это больше половины вашей ежедневной цели. 🥳 👏";
+
+/* No comment provided by engineer. */
+"Write e-mail" = "Написать электронное письмо";
+
+/* No comment provided by engineer. */
+"Year" = "Год";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Вчера";
+
+/* No comment provided by engineer. */
+"You are still %lld days in the test phase. During this time you can test some pro features for free." = "Вы все еще находитесь на этапе тестирования (%lld дней). В течение этого времени вы можете бесплатно протестировать некоторые профессиональные функции.";
+
+/* No comment provided by engineer. */
+"You can apply for your new liner for your %@ in 3 days." = "Вы можете подать заявку на новый лайнер для своего %@ через 3 дня.";
+
+/* No comment provided by engineer. */
+"You didn't even stop by yesterday. Just get back into your plan today." = "Ты даже не зашел вчера. Просто вернитесь к своему плану сегодня.";
+
+/* No comment provided by engineer. */
+"You have an appointment at %@ on %@ at %@ ✌️. Come by and have a look at your notes. 😉" = "У вас назначена встреча в %1$@ %2$@ в %3$@ ✌️. Приходите и посмотрите свои записи. 😉";
+
+/* No comment provided by engineer. */
+"You have not entered any moods in the current period." = "Вы не ввели ни одного настроения за текущий период.";
+
+/* No comment provided by engineer. */
+"You have not entered any moods yet" = "Вы еще не ввели ни одного настроения";
+
+/* No comment provided by engineer. */
+"You have not entered any pain in the current period." = "Вы не зарегистрировали ни одной боли в текущем периоде.";
+
+/* No comment provided by engineer. */
+"You have not entered any pains yet" = "Вы еще не вводили никаких болей";
+
+/* No comment provided by engineer. */
+"You have not saved any Prosthesis" = "Вы не сохранили ни одного протеза";
+
+/* No comment provided by engineer. */
+"You have not saved any Prosthesis-Liners" = "Вы не сохранили ни одного вкладыша для протезов.";
+
+/* No comment provided by engineer. */
+"You have not yet added any moods to your prostheses" = "Вы еще не добавили настроения в свои протезы";
+
+/* No comment provided by engineer. */
+"You have not yet added any pains to your prostheses" = "Вы еще не добавили боли своим протезам";
+
+/* No comment provided by engineer. */
+"You have now tested the app for more than 14 days free of charge. If you want to continue using the Pro features, you need a Pro subscription!" = "Вы протестировали приложение более 14 дней бесплатно. Если вы хотите продолжить использовать функции Pro, вам нужна подписка Pro!";
+
+/* No comment provided by engineer. */
+"You have reached your goal today!" = "Сегодня вы достигли своей цели!";
+
+/* No comment provided by engineer. */
+"You have the premium subscription!" = "У вас есть премиум-подписка!";
+
+/* No comment provided by engineer. */
+"You walked an average of %lld steps per day this week. That's  %lld fewer steps than last week." = "На этой неделе вы проходили в среднем %lld шагов в день. Это на %lld меньше шагов, чем на прошлой неделе.";
+
+/* No comment provided by engineer. */
+"You walked an average of %lld steps per day this week. These are %lld steps more as last week." = "На этой неделе вы проходили в среднем %lld шагов в день. Это на %lld шагов больше, чем на прошлой неделе.";
+
+/* No comment provided by engineer. */
+"You've already reached 50% of your daily step goal." = "Вы уже достигли 50 % от запланированного ежедневного количества шагов.";
+
+/* No comment provided by engineer. */
+"Your amputation date is required for your statistics." = "Дата ампутации необходима для вашей статистики.";
+
+/* No comment provided by engineer. */
+"Your appointments and notes at a glance." = "Ваши встречи и заметки с первого взгляда.";
+
+/* No comment provided by engineer. */
+"Your daily goal for today is %lld steps." = "Ваша ежедневная цель на сегодня — %lld шагов.";
+
+/* No comment provided by engineer. */
+"Your first name" = "Твое имя";
+
+/* No comment provided by engineer. */
+"Your mood history this week." = "История вашего настроения на этой неделе.";
+
+/* No comment provided by engineer. */
+"Your mood progression in the prosthesis comparison." = "Изменение вашего настроения при сравнении протезов.";
+
+/* No comment provided by engineer. */
+"Your mood trend compared to the month before." = "Тенденция вашего настроения по сравнению с предыдущим месяцем.";
+
+/* No comment provided by engineer. */
+"Your mood trend compared to the week before." = "Тенденция вашего настроения по сравнению с предыдущей неделей.";
+
+/* No comment provided by engineer. */
+"Your next liner for your %@ can now be requested." = "Теперь можно запросить следующий вкладыш для вашего %@.";
+
+/* No comment provided by engineer. */
+"Your pain has a connection of %lld %%." = "Ваша боль имеет связь %lld %%.";
+
+/* No comment provided by engineer. */
+"Your Pain history this week." = "Ваша история боли на этой неделе.";
+
+/* No comment provided by engineer. */
+"Your pain progression in the prosthesis comparison." = "Прогрессирование вашей боли при сравнении протеза.";
+
+/* No comment provided by engineer. */
+"Your Pain trend compared to the month before." = "Тенденция вашей боли по сравнению с предыдущим месяцем.";
+
+/* No comment provided by engineer. */
+"Your Pain trend compared to the week before." = "Тенденция вашей боли по сравнению с предыдущей неделей.";
+
+/* No comment provided by engineer. */
+"Your personal weekly report" = "Ваш личный еженедельный отчет";
+
+/* No comment provided by engineer. */
+"Your progress and activities at a glance." = "Ваш прогресс и деятельность с первого взгляда.";
+
+/* No comment provided by engineer. */
+"Your Prosthesis-Liners?" = "Ваши вкладыши для протезов?";
+
+/* No comment provided by engineer. */
+"Your Prosthesis?" = "Ваш протез?";
+
+/* No comment provided by engineer. */
+"Your Prosthetic:" = "Ваш протез:";
+
+/* No comment provided by engineer. */
+"Your statistics" = "Ваша статистика";
+
+/* No comment provided by engineer. */
+"Your step goal" = "Ваша цель по шагам";
+
+/* No comment provided by engineer. */
+"Your step trend compared over the last %lld weeks." = "Динамика вашего шага в сравнении за последние %lld недель.";
+
+/* No comment provided by engineer. */
+"Your steps today" = "Ваши шаги сегодня";
+
+/* No comment provided by engineer. */
+"Your weekly progress compared to the previous week." = "Ваш недельный прогресс по сравнению с предыдущей неделей.";
+
+/* No comment provided by engineer. */
+"Your weekly progress is available" = "Ваш еженедельный прогресс доступен";
+
+/* No comment provided by engineer. */
+"Zeige erfüllte Tagesziele Schrittüberischt Schrittüberischt" = "Показать выполненные ежедневные цели, обзор шага, обзор шага";
+
+/* No comment provided by engineer. */
+"Zeigt den Record Button auch auf der Schrittüberischt an." = "Также отображается кнопка записи в обзоре шагов.";
+
+/* No comment provided by engineer. */
+"Zeit:" = "Время:";
+

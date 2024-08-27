@@ -38,7 +38,7 @@
       enableASanStackUseAfterReturn = "YES"
       disableMainThreadChecker = "YES"
       disablePerformanceAntipatternChecker = "YES"
-      language = "de"
+      language = "ru"
       region = "ES"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"

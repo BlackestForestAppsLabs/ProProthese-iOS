@@ -1,0 +1,18 @@
+/* Bundle name */
+"CFBundleName" = "Pro Prosthesis Watch App";
+
+/* Privacy - Health Records Usage Description */
+"NSHealthClinicalHealthRecordsShareUsageDescription" = "Pro Prosthesis would like to save your active readings";
+
+/* Privacy - Health Share Usage Description */
+"NSHealthShareUsageDescription" = "Pro Prosthesis wants to access your active readings";
+
+/* Privacy - Health Update Usage Description */
+"NSHealthUpdateUsageDescription" = "Pro Prosthesis wants to change your active readings";
+
+/* Privacy - Location Always and When In Use Usage Description */
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Pro Prosthesis needs access to their location to track their workouts";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Pro Prosthesis needs access to their location to track their workouts";
+

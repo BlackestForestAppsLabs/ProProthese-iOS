@@ -50,6 +50,15 @@ enum Theme: String, CaseIterable {
         }
     }
     
+    var localizable: LocalizedStringKey {
+            switch self {
+                case .blue: return LocalizedStringKey("blue")
+                case .green: return LocalizedStringKey("blue")
+                case .orange: return LocalizedStringKey("orange")
+                case .pink: return LocalizedStringKey("pink")
+            }
+        }
+    
     var previewImage: String {
         switch self {
         case .blue: return "ThemePreview_blue"
